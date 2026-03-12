@@ -174,3 +174,6 @@ CREATE TABLE electronic_reviews (
 
 **Samruddhi Chitnis**  
 [github.com/samruddhichitnis02](https://github.com/samruddhichitnis02)
+
+**Anushka Khadatkar**  
+[github.com/AnushkaKhadatkar](https://github.com/AnushkaKhadatkar)
